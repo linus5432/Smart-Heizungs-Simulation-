@@ -4,9 +4,11 @@
 
 Diese Simulation vergleicht drei Heizszenarien über 14 Tage (1.-14. Januar 2026) und rechnet basierend auf Daten aus 2025 auf ein ganzes Jahr hoch:
 
-Klassisch: Konstante 21°C, keine Optimierung
-Smart: Dynamische Temperatursteuerung basierend auf Anwesenheit, Strompreisen und Wettervorhersage
-Smart + Dämmung: Smart-Steuerung mit verbesserter Gebäudedämmung
+- Klassisch: Konstante 21°C keine Optimierung
+
+- Smart: Dynamische Temperatursteuerung basierend auf Anwesenheit, Strompreisen und Wettervorhersage
+
+- Smart + Dämmung: Smart-Steuerung mit verbesserter Gebäudedämmung
 
 Features
 
@@ -51,5 +53,6 @@ Heizleistung: 5 kW
 U-Wert Standard: 1.5 W/(m²K)
 U-Wert Gedämmt: 0.2 W/(m²K)
 Strompreis: 0.30 €/kWh (Basis) + dynamische Schwankungen
+
 
 
