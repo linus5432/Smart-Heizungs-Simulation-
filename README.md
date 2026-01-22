@@ -26,14 +26,12 @@ pip install matplotlib numpy
 Verwendung
 Simulation.py ausführen
 
-Ergebnisse
 Die Simulation zeigt:
 
 - 14-Tage-Einsparung 
 - Jahresprognose
 - CO₂-Reduktion
 
-Output
 Das Skript erzeugt:
 
 - Detaillierte Konsolen-Ausgabe mit Monatswerten
@@ -53,6 +51,7 @@ Heizleistung: 5 kW
 U-Wert Standard: 1.5 W/(m²K)
 U-Wert Gedämmt: 0.2 W/(m²K)
 Strompreis: 0.30 €/kWh (Basis) + dynamische Schwankungen
+
 
 
 
